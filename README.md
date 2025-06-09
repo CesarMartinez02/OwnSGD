@@ -1,4 +1,4 @@
-# SuperSGDClassifier
+#SGDClassifier
 
 Este proyecto implementa desde cero un clasificador binario basado en Regresión Logística utilizando Gradiente Descendente Estocástico (SGD). Incluye procesamiento de datos categóricos y numéricos, entrenamiento personalizado y evaluación del modelo.
 
